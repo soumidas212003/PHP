@@ -1,0 +1,14 @@
+<?php
+    /*$x="Soumita";
+    var_dump($x);*/
+    /*$x=50;
+    var_dump($x);*/
+    /*$x=50.00;
+    var_dump($x);*/
+    /*$x=true;
+    var_dump($x);*/
+    $x=array("css","js","html");
+    var_dump($x);
+    /*$x=null;
+    var_dump($x);*/
+?>
